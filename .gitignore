@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# SaiKet Systems project brief - not ours to redistribute
+BUSINESS ANALYSIS TASK LIST (1).pdf
+tasklist.txt
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
